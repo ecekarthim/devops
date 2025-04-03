@@ -2999,14 +2999,6 @@ tar -xvf grafana-8.11.1.tgz
 cd grafana
 ls -l
 
-Post Assessment : https://forms.office.com/r/5ZSeQqwdPD
-
-Feedback: https://forms.office.com/r/SKCf1ChQ0H
-
-Email:
-jegannathan.v@gmail.com
-vikky2423@gmail.com
-
 install istio
 ---
 cd 
